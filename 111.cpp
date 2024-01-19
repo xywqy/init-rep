@@ -1,5 +1,5 @@
 std::cout << "Vasia";
 
-int a = 34;
+int a = 340;
 
 int b = a + 56;
